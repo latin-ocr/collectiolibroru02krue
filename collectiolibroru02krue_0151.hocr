@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./collectiolibroru02krue_0151.png"; bbox 0 0 1942 3081; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 357 1126 1515 1207">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 357 1126 1515 1207">
+     <span class='ocr_line' id='line_1_1' title="bbox 357 1126 1515 1207; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 357 1126 1031 1207; x_wconf 83' lang='lat' dir='ltr'><strong>FRAGMENTA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1077 1130 1515 1207; x_wconf 81' lang='lat' dir='ltr'><strong>MINORA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 221 1353 1650 1419">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 221 1353 1650 1419">
+     <span class='ocr_line' id='line_1_2' title="bbox 221 1353 1650 1419; baseline 0.001 -4"><span class='ocrx_word' id='word_1_3' title='bbox 221 1353 796 1417; x_wconf 79' lang='lat' dir='ltr'><strong>SAECVLORVM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 829 1354 900 1416; x_wconf 89' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 938 1353 1135 1417; x_wconf 82' lang='lat' dir='ltr'><strong>CHR.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1171 1355 1246 1416; x_wconf 93' lang='lat' dir='ltr'><strong>N.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1286 1354 1552 1419; x_wconf 80' lang='lat' dir='ltr'><strong>SECVN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1557 1356 1650 1417; x_wconf 92' lang='lat' dir='ltr'><strong>DI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 717 1559 1152 1622">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 717 1559 1152 1622">
+     <span class='ocr_line' id='line_1_3' title="bbox 717 1559 1152 1622; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 717 1559 824 1621; x_wconf 87' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 858 1560 1152 1622; x_wconf 84' lang='lat' dir='ltr'><strong>TERTII</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
